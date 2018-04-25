@@ -1,0 +1,14 @@
+{
+"companyName": "InternalGeometry",
+"productName": "Spiky",
+"dataUrl": "Spiky.data.unityweb",
+"asmCodeUrl": "Spiky.asm.code.unityweb",
+"asmMemoryUrl": "Spiky.asm.memory.unityweb",
+"asmFrameworkUrl": "Spiky.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Spiky.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
